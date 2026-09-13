@@ -13,7 +13,7 @@ No `gradlew` wrapper is checked in; use Studio or system Gradle 8.7:
 `gradle :app:assembleDebug --project-dir android` (or `make apk`).
 
 **AI track** — Colab T4 GPU. Open
-`https://colab.research.google.com/github/Himanshu121865/sih26168/blob/main/sih26168_colab.ipynb`,
+`https://colab.research.google.com/github/TTyChud/sih26168/blob/main/sih26168_colab.ipynb`,
 Factory reset runtime, Run all. Local Python is for lint/compile only
 (no torch/numpy here); heavy runs always happen on Colab.
 
